@@ -3,19 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-MD Bokhtyer Abid
-Welcome to CodexUnicTheme!
 
-CodexUnicTheme offers a wide variety of templates that meet all the modern requirements. Here you can find first-class Website themes & Templates suited to every fancy such as:
-
-    HTML Template
-    Wordpress Theme
-    Woocommerce Theme
-    IT Solution Template
-
-Do not hesitate to choose our designs, add reviews, and provide your feedback. We are always glad to hear your voice and will do our best to meet your expectations!
-
-We ready 24×7 hours and always to help you about our products in 1 business day via support ticket.
+I'm bokhtyer abid. I've more than 3+ years of experience web design & WordPress Themes, Plugins development, Solution Development ( Frontend ) React Js. I'm a currently work at ShadhinLab LLC Solution Developer ( Frontend ) React Js Developer.
 
 With a professional Web Design and Development team, we are here to serve the business around the world
 Have you any custom job proposal? We are ready to work you. Please contact us if you have any custom job.
